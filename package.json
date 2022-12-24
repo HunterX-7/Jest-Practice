@@ -1,0 +1,23 @@
+{
+  "name": "jest-practice",
+  "version": "1.0.0",
+  "description": "The main objective of this repo is to write a few practical tests for JavaScript functions using the Jest library. Using the AAA pattern and the TDD approach for development by writing tests before writing the actual functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HunterX-7/Jest-Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HunterX-7/Jest-Practice/issues"
+  },
+  "homepage": "https://github.com/HunterX-7/Jest-Practice#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
